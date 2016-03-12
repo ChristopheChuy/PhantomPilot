@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="apppilotage">
+        <item name="android:colorBackground">@color/bleufond</item>
+    </style>
+</resources>

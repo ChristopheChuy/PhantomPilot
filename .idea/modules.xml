@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DJI-SDK-LIB/DJI-SDK-LIB.iml" filepath="$PROJECT_DIR$/DJI-SDK-LIB/DJI-SDK-LIB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhantomPilot.iml" filepath="$PROJECT_DIR$/PhantomPilot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhantomPilot/PhantomPilot-PhantomPilot.iml" filepath="$PROJECT_DIR$/PhantomPilot/PhantomPilot-PhantomPilot.iml" />
+    </modules>
+  </component>
+</project>
